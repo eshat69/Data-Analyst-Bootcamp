@@ -15,4 +15,3 @@ select distinct first_name, gender from parks_and_recreation.employee_demographi
 select distinct age, gender from parks_and_recreation.employee_demographics ; 
 select * from parks_and_recreation.employee_salary;
 select * from parks_and_recreation.parks_departments
-
